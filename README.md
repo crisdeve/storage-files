@@ -1,22 +1,12 @@
-# Shopify App Template - Node
+![](https://img.shields.io/badge/version-v1.0.0-green) ![](https://img.shields.io/badge/ReactJS-^7.0.0-blue) ![](https://img.shields.io/badge/Nodejs-^14.0-green)
 
-This is a template for building a [Shopify app](https://shopify.dev/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
+# Storage of images and videos 📸 📹
 
-Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template).
+This project was create to test and create a storage image (unlimited) of videos and images. Use Shopify API and DB.
 
-## Benefits
+## Created by
 
-Shopify apps are built on a variety of Shopify tools to create a great merchant experience. The [create an app](https://shopify.dev/apps/getting-started/create) tutorial in our developer documentation will guide you through creating a Shopify app using this template.
-
-The Node app template comes with the following out-of-the-box functionality:
-
-- OAuth: Installing the app and granting permissions
-- GraphQL Admin API: Querying or mutating Shopify admin data
-- REST Admin API: Resource classes to interact with the API
-- Shopify-specific tooling:
-  - AppBridge
-  - Polaris
-  - Webhooks
+- @crisdev.e
 
 ## Tech Stack
 
